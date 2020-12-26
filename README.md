@@ -6,5 +6,6 @@
 ```
   npx create-react-app --teample redux
 
+  npm i @material-ui/core @material-ui/icons
   
 ```
